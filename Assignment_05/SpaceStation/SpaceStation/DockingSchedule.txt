@@ -1,0 +1,15 @@
+12:00pm,Shuttle class,Moonraker,2,no
+12:30pm,large class,Enterprise,3,no
+02:00pm,cargo class,serenity,6,no
+02:00pm,large class,Normandy SR-2,5,yes
+04:00pm,Shuttle class,Churchill,2,yes
+04:30pm,large class,Prometheus,4,no
+06:00pm,Shuttle class,Firestar,4,no
+06:00pm,cargo class,Starbug,6,no
+06:00pm,cargo class,Red Dwarf,6,no
+06:30pm,Shuttle class,The Gunstar,3,no
+07:00pm,large class,Discovery One,3,no
+07:30pm,large class,The Cygnus,2,yes
+08:00pm,Shuttle class,Eagle transporter,3,no
+09:00pm,Shuttle class,The Defiant,2,yes
+09:00pm,cargo class,Nostromo,6,no
